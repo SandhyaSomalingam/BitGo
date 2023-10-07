@@ -36,6 +36,8 @@ public class TestClass {
 	 for(WebElement uniqueHeader : headerValues) {
 		 String uniqueHeaderValue = uniqueHeader.getText();
 		 System.out.println(uniqueHeaderValue); 
+		 
+		 System.out.println("Testing");
 	 }
 		
 		
